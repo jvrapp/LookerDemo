@@ -1,7 +1,7 @@
 # Analytics Demo — thelook_ecommerce (BigQuery)
 
 This repository contains three SQL tasks (A, B, C) solved using **Google BigQuery** and the public dataset [`bigquery-public-data.thelook_ecommerce`](https://console.cloud.google.com/marketplace/product/bigquery-public-data/thelook-ecommerce).  
-The goal is to demonstrate SQL fluency, analytic reasoning, and ability to translate business requirements into reproducible queries to create a useful BI dashobard [`https://lookerstudio.google.com/reporting/477b9fbe-7547-40b6-87a9-15e9d9c2a197`]
+The objective is to demonstrate SQL proficiency, analytical reasoning, and the ability to translate business requirements into reproducible queries that support the development of a practical [`BI dashobard`](https://lookerstudio.google.com/reporting/477b9fbe-7547-40b6-87a9-15e9d9c2a197)
 
 ---
 
